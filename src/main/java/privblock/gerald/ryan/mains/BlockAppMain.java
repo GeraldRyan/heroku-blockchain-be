@@ -98,7 +98,6 @@ public class BlockAppMain {
 	public static void header() {
 		System.out.format("\n%15s %15s %15s %15s %15s %15s %15s\n", "ID", "Timestamp", "lastHash", "hash", "data",
 				"difficulty", "nonce");
-		System.out.println("-".repeat(100));
 	}
 
 }

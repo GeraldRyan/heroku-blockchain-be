@@ -100,7 +100,6 @@ package privblock.gerald.ryan.mains;
 	
 		public static void header() {
 			System.out.format("\n%5s %5s %10s %15s %15s %15s\n", "ID", "ownID", "balance", "currency", "date opened", "last accessed");
-			System.out.println("-".repeat(100));
 		}
 	
 	}

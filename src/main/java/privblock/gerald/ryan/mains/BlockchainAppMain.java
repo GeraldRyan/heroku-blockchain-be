@@ -92,7 +92,7 @@ public class BlockchainAppMain {
 	public static void header() {
 		System.out.format("\n%5s %15s %15s %15s %15s\n", "ID", "INSTANCE_NAME", "DATE_CREATED", "DATE_LAST_MODIFIED",
 				"LENGTH_OF_CHAIN");
-		System.out.println("-".repeat(100));
+		System.out.println("-------------------------------------------");
 	}
 
 }
